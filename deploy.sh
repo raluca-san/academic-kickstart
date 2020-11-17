@@ -19,7 +19,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
+git push origin HEAD:main
 
 printf "Deploying updates to GitHub...\n"
 
@@ -40,6 +40,6 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
+git push origin HEAD:main
 
 # git push origin HEAD:main alternatively
