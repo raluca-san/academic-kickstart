@@ -6,12 +6,16 @@
   height: 70px;
   background: $sta-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
-  font-size: #{$sta-font-size-small}px;
+  font-size: 22px;
+  // font-weight: 600 !important;
+  // font-size: #{$sta-font-size-small}px;
   position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
   z-index: 1030;
+
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
@@ -109,7 +113,7 @@
 .navbar-brand {
   // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   font-weight: bold;
   position: relative;
   z-index: 1030;  // For z-index clickable mobile logo.
