@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 20
 
 [[main]]
@@ -28,10 +28,15 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "CV"
-  url = "#cv"
-  weight = 15
+#[[main]]
+#  name = "CV"
+#  url = "#cv"
+  #weight = 15
+
+  #[[main]]
+  #name = "My Widget Page"  # Title of the link.
+  #url = "landing/"  # Widget Page folder name.
+#  weight = 2  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

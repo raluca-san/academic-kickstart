@@ -9,4 +9,5 @@ featured: true
 publication: "*IEEE Open Journal of Engineering in Medicine and Biology*"
 tags: ["Computer-assisted surgery", "Liver neoplasms", "Resection techniques", "Ultrasonography"]
 doi: "10.1109/OJEMB.2019.2961094"
+url_pdf: /publication/paolucci-ultrasound-2019/Paolucci et al. - 2020 - Ultrasound Based Planning and Navigation for Non-A.pdf
 ---
