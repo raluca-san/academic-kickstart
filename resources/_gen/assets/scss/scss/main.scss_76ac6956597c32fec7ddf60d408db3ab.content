@@ -9011,17 +9011,19 @@ div.mermaid {
   padding: 1em; }
 
 .card-about {
+  width: 100%;
+  color: #000000;
   overflow: hidden;
   text-overflow: ellipsis;
-  background: #fff;
   box-shadow: 8px 8px 0 0 #2079c7;
   transition: all 0.2s ease-out;
-  border-radius: 10px;
-  padding: 2rem;
+  border: 1px solid #2079c7;
+  border-radius: 5px;
+  padding: 1.5rem;
   background-color: #F7F7F7; }
 
 .card-about a {
-  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
   border-bottom: 1.5px #D90429 dotted;
   cursor: pointer; }
 

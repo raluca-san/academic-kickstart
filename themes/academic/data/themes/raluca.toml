@@ -11,7 +11,7 @@ primary = "#2079c7"
 menu_primary = "#2079c7"
 menu_text = "#fff"
 menu_text_active = "#ec9c9d"
-# menu_text_hover = "#ec9c9d"
+menu_text_hover = "#ec9c9d"
 menu_title = "#fff"
 
 
@@ -22,17 +22,3 @@ home_section_even = "rgb(247, 247, 247)"
 
 link = "#ff7162"
 link_hover = "#de425b"
-
-# text_color_light = false
-
-
-# Background gradient.
-# gradient_start = "DeepSkyBlue"
-# gradient_end = "SkyBlue"
-
-# Background image.
-# image = "background.jpg"  # Name of image in `static/img/`.
-# image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-# Text color (true=light or false=dark).
-# text_color_light = true
