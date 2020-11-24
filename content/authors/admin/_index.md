@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Raluca-Maria Sandu
+name: R.M. Sandu
 
 # Username (this should match the folder name)
 authors:
@@ -53,12 +53,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4463-1253
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/6503966/rms?tab=profile
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/rmsandu
+#- icon: stack-overflow
+#  icon_pack: fab
+#  link: https://stackoverflow.com/users/6503966/rms?tab=profile
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/rmsandu
 user_groups:
 - Researchers
 - Visitors
