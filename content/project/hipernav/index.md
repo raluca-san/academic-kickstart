@@ -30,7 +30,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://hipernav.eu/esr-9/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

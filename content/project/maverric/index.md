@@ -27,7 +27,7 @@ links:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/raluca-san/segmentation-eval"
 url_pdf: ""
 url_slides: ""
 url_video: ""

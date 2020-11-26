@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "project/bachelor/5_PDFsam_RalucaSandu_BachelorThesis_final.pdf"
-url_slides: ""
+url_pdf: "project/bachelor/biomedica_conference_Volumetric Capnography_RMSandu.pdf"
+url_slides: "project/bachelor/biomedica_poster_RMSandu.pdf"
 url_video: ""
 
 # Slides (optional).

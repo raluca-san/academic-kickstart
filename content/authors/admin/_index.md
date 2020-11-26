@@ -13,7 +13,7 @@ superuser: true
 role: Research Scientist
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am (Biomedical) Research Scientist interested  in  developing research  that  can  improve  the  clinical  outcome  in  diagnostic, therapeutic, interventional and surgical procedures using data mining, artificial intelligence and robotics.
+bio: I am Research Scientist interested  in  developing research  that  can  improve  the  clinical  outcome  in  diagnostic, therapeutic, interventional and surgical procedures using data mining, artificial intelligence and robotics.
 
 #interests:
 #- Medical Devices & Applications
@@ -43,7 +43,7 @@ social:
   link: 'mailto:raluca.sandu@rwth-aachen.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: cv/CV_RalucaSandu_Nov2020_Website.pdf
+  link: cv/CV_RMSandu_Nov2020_Website.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/raluca-san
@@ -53,12 +53,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4463-1253
-#- icon: stack-overflow
-#  icon_pack: fab
-#  link: https://stackoverflow.com/users/6503966/rms?tab=profile
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/rmsandu
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/6503966/rms?tab=profile
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rmsandu
 user_groups:
 - Researchers
 - Visitors

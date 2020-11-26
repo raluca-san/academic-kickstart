@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/raluca-san/IAT-image-annotation-website"
-url_pdf: "project/master/MSc_thesis_RalucaSandu_ImageSegmentationSemanticDescription.pdf"
+# url_pdf: "project/master/MSc_thesis_RalucaSandu_ImageSegmentationSemanticDescription.pdf"
 url_slides: ""
 url_video: ""
 
