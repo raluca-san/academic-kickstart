@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: ["PhD", "Healthcare", "Clinical Trials"]
 categories: []
-date: 2020-01-07T20:48:16+01:00
+date: -2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

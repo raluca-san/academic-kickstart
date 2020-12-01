@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: ["About", "PhD"]
 categories: []
-date: 2020-01-07T21:07:57+01:00
+date: -1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

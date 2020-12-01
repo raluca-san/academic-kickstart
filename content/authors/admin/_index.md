@@ -43,10 +43,13 @@ social:
   link: 'mailto:raluca.sandu@rwth-aachen.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: cv/CV_RMSandu_Nov2020_Website.pdf
+  link: cv/CV_RMSandu_Nov2020_Website_2.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/raluca-san
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rmsandu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5qskcz0AAAAJ&hl=en
@@ -56,9 +59,6 @@ social:
 - icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/6503966/rms?tab=profile
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/rmsandu
 user_groups:
 - Researchers
 - Visitors

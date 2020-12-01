@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-11-20T20:10:31+01:00
+date: -3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,9 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+ - name: App
+   url: https://iat-image--annotation-website.herokuapp.com/
 #   icon_pack: fab
 #   icon: twitter
 
