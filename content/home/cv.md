@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -15,4 +15,4 @@ weight = 30
 
 +++
 
-My CV is available in [PDF](cv/CV_RalucaSandu_Nov2020_Website.pdf) form. (Last updated: November 2020)
+My CV is available in [PDF](cv/CV_RMSandu_Website_2021.pdf) form. (Last updated: January 2021)

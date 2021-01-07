@@ -28,10 +28,10 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#  name = "CV"
-#  url = "#cv"
-  #weight = 15
+[[main]]
+ name = "CV"
+ url = "#cv"
+weight = 15
 
   #[[main]]
   #name = "My Widget Page"  # Title of the link.
