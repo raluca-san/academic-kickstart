@@ -40,7 +40,7 @@ bio: I am Research Scientist interested  in  developing research  that  can  imp
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:raluca.sandu@rwth-aachen.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:raluca.m.sandu@hotmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: cv/CV_RMSandu_Nov2020_Website_2.pdf
