@@ -1,6 +1,6 @@
 ---
 title: "Ultrasound based planning and navigation for non anatomical liver resections — an ex-vivo study"
-date: 2019-01-01
+date: 2020-12-20
 publishDate: 2020-01-08T19:01:07.397480Z
 authors: ["Iwan Paolucci", "Raluca-Maria Sandu", "Luca Sahli", "Gian Andrea Prevost", "Federico Storni", "Daniel Candinas", "Stefan Weber", "Anja Lachenmayer"]
 publication_types: ["2"]
